@@ -34,16 +34,16 @@ a{
 
 .hero{
     display: flex;
-    box-sizing: border-box;
     height:480px;
     background-color: #1F2937;
-    padding: 115px 215px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 215px;
 }
 
 .text{
     width: 450px;
     height: 250px;
-    margin-right: auto;
 }
 
 .hero-main-text{
